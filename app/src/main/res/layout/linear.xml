@@ -22,4 +22,11 @@
         android:layout_height="wrap_content"
         android:text="Siguiente"
         android:id="@+id/button" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Anterior"
+        android:id="@+id/btnAnterior"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>
