@@ -2,4 +2,6 @@
     <string name="app_name">LayoutTest</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_blank_fragment"> </string>
+    <string name="drawer_open"> Hola </string>
+    <string name="drawer_close"> Adios </string>
 </resources>
